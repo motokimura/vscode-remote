@@ -1,3 +1,4 @@
 {
-    "docker.host": "ssh://kimura@sak4"
+    "docker.host": "ssh://kimura@sak4",
+    "python.pythonPath": "/usr/local/bin/python"
 }
